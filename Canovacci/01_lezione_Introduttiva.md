@@ -1,7 +1,5 @@
 # Corso di Excel
 
----
-
 **Documento di Sintesi per la Prima Lezione su Excel**
 
 ---
