@@ -21,7 +21,7 @@
 
 - **Selezionare una cella o un intervallo di celle:**
   - **Shift + Freccia**: Estende la selezione di una cella nella direzione indicata.
-- **Selezionare l'intero foglio di lavoro:**
+- **Selezionare tutta l'area contigua o l'intero foglio di lavoro:**
   - **Ctrl + A**
 - **Selezionare un'intera riga:**
   - **Shift + Barra Spaziatrice**
