@@ -44,15 +44,7 @@
 - **Inserire un'interruzione di riga in una cella:**
   - **Alt + Invio**
 - **Inserire la data corrente:**
-  - **Ctrl + ;** (punto e virgola)
-- **Inserire l'ora corrente:**
-  - **Ctrl + Shift + :** (due punti)
-- **Copiare il contenuto della cella sopra:**
-  - **Ctrl + D**
-- **Copiare il contenuto della cella a sinistra:**
-  - **Ctrl + R**
-- **Ripetere l'ultima azione:**
-  - **F4** o **Ctrl + Y**
+  - **AltGr + A** oppure **Ctrl + Alt + A** 
 
 ## Formattazione delle Celle
 
@@ -66,35 +58,31 @@
   - **Ctrl + S**
 - **Allineamento del testo:**
   - **Alt + H, A, L**: Allinea a sinistra.
-  - **Alt + H, A, C**: Allinea al centro.
-  - **Alt + H, A, R**: Allinea a destra.
+  - **Alt + H, I, L**: Allinea al centro.
+  - **Alt + H, L, L**: Allinea a destra.
 - **Unire e centrare celle:**
-  - **Alt + H, M, C**
+  - **Alt + H, U, U, A**
 - **Applicare bordi:**
   - **Ctrl + Shift + &**: Aggiunge bordi esterni.
   - **Ctrl + Shift + _**: Rimuove i bordi.
 - **Formattazione numerica:**
   - **Ctrl + Shift + $**: Formato valuta.
   - **Ctrl + Shift + %**: Formato percentuale.
-  - **Ctrl + Shift + #**: Formato data.
-  - **Ctrl + Shift + @**: Formato ora.
-  - **Ctrl + Shift + ^**: Formato esponenziale.
-  - **Ctrl + Shift + !**: Formato numero con due decimali.
-
+    
 ## Lavorare con i Fogli di Lavoro
 
 - **Inserire un nuovo foglio:**
-  - **Shift + F11**
+  - **Shift + F11** oppure **ALT + H, E, I, S**
 - **Eliminare un foglio:**
-  - **Alt + H, D, S**
+  - **Alt + H, M, L, N**
 - **Rinominare un foglio:**
-  - **Alt + H, O, R**
+  - **Alt + H, H, F, R**
 - **Spostare o copiare un foglio:**
-  - **Alt + H, O, M**
+  - **Alt + H, H, F, S**
 - **Nascondere un foglio:**
-  - **Alt + H, O, U, S**
+  - **Alt + + H, H, F, N, F**
 - **Mostrare un foglio nascosto:**
-  - **Alt + H, O, U, H**
+  - **Alt + + H, H, F, N, O**
 
 ## Formule e Calcoli
 
@@ -108,17 +96,15 @@
   - **Ctrl + Alt + F9**
 - **Modificare una formula nella cella:**
   - **F2**
-- **Mostrare o nascondere le formule:**
-  - **Ctrl + \`** (accento grave)
 
 ## Ricerca e Sostituzione
 
 - **Trova:**
-  - **Ctrl + T**
+  - **Ctrl + Shift + T**
 - **Sostituisci:**
-  - **Ctrl + S**
+  - **Ctrl + Shift + S**
 - **Vai a:**
-  - **Ctrl + G** o **F5**
+  - **F5**
 
 ## Annulla e Ripristina
 
@@ -139,15 +125,15 @@
 ## Lavorare con i File
 
 - **Creare un nuovo file:**
-  - **Ctrl + N**
+  - **Ctrl + N** oppure **Alt + F, N**
 - **Aprire un file esistente:**
-  - **Ctrl + A**
+  - **Alt + F, R**
 - **Salvare il file:**
-  - **Ctrl + S**
+  - **Alt + F, V**
 - **Salvare con nome:**
   - **F12**
 - **Chiudere il file:**
-  - **Ctrl + W**
+  - **Alt + F, Y, 7**
 - **Chiudere Excel:**
   - **Alt + F4**
 
@@ -157,17 +143,9 @@
   - **Ctrl + P**
 - **Anteprima di stampa:**
   - **Ctrl + F2**
-- **Impostazione della pagina:**
-  - **Alt + P, S, P**
-- **Inserire un'interruzione di pagina:**
-  - **Alt + P, B, I**
 
 ## Altri Comandi Utili
 
-- **Inserire righe:**
-  - **Ctrl + Shift + +** (con righe selezionate)
-- **Eliminare righe:**
-  - **Ctrl + -** (con righe selezionate)
 - **Selezionare l'intera riga:**
   - **Shift + Barra Spaziatrice**
 - **Selezionare l'intera colonna:**
@@ -178,10 +156,6 @@
   - **Shift + F2**
 - **Controllo ortografico:**
   - **F7**
-- **Bloccare i riquadri:**
-  - **Alt + W, F, F**
-- **Zoom:**
-  - **Alt + W, Q**
 
 ## Note Importanti
 
