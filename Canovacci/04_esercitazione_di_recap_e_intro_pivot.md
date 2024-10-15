@@ -1,9 +1,3 @@
----
-
-**Materiale Didattico di Supporto per Esercitazioni Avanzate su Excel**
-
----
-
 ### **1. Funzioni di Ricerca in Tabella (`CERCA.VERT`, `CERCA.X`)**
 
 #### **Dataset: Catalogo Prodotti Esteso**
