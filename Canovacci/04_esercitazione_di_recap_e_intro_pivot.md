@@ -40,7 +40,7 @@
   - **Media dei voti**.
   - **Voto minimo e massimo**.
 - **Determina** se lo studente è "Promosso" o "Bocciato" utilizzando `SE` (soglia: 60).
-- **Assegna** un giudizio utilizzando `SE.MULTIPLO` o nidificando funzioni `SE`:
+- **Assegna** un giudizio utilizzando `PIÙ.SE` o nidificando funzioni `SE`:
   - Media < 60: **Insufficiente**.
   - 60 ≤ Media < 70: **Sufficiente**.
   - 70 ≤ Media < 80: **Buono**.
