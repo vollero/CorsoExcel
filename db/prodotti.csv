@@ -1,0 +1,301 @@
+ID Prodotto,Nome Prodotto,Categoria,Sottocategoria,Prezzo
+P00001,Smartphone Modello 1,Elettronica,Smartphone,830.77
+P00002,Smartphone Modello 2,Elettronica,Smartphone,332.53
+P00003,Smartphone Modello 3,Elettronica,Smartphone,294.21
+P00004,Smartphone Modello 4,Elettronica,Smartphone,661.85
+P00005,Smartphone Modello 5,Elettronica,Smartphone,728.93
+P00006,Smartphone Modello 6,Elettronica,Smartphone,978.12
+P00007,Smartphone Modello 7,Elettronica,Smartphone,789.21
+P00008,Smartphone Modello 8,Elettronica,Smartphone,602.85
+P00009,Smartphone Modello 9,Elettronica,Smartphone,567.65
+P00010,Smartphone Modello 10,Elettronica,Smartphone,191.43
+P00011,Smartphone Modello 11,Elettronica,Smartphone,336.37
+P00012,Smartphone Modello 12,Elettronica,Smartphone,631.5
+P00013,Smartphone Modello 13,Elettronica,Smartphone,619.68
+P00014,Smartphone Modello 14,Elettronica,Smartphone,403.16
+P00015,Smartphone Modello 15,Elettronica,Smartphone,674.85
+P00016,Smartphone Modello 16,Elettronica,Smartphone,686.56
+P00017,Smartphone Modello 17,Elettronica,Smartphone,976.27
+P00018,Smartphone Modello 18,Elettronica,Smartphone,797.79
+P00019,Smartphone Modello 19,Elettronica,Smartphone,697.46
+P00020,Smartphone Modello 20,Elettronica,Smartphone,785.81
+P00021,Laptop Modello 1,Elettronica,Laptop,504.66
+P00022,Laptop Modello 2,Elettronica,Laptop,503.78
+P00023,Laptop Modello 3,Elettronica,Laptop,853.67
+P00024,Laptop Modello 4,Elettronica,Laptop,355.75
+P00025,Laptop Modello 5,Elettronica,Laptop,331.08
+P00026,Laptop Modello 6,Elettronica,Laptop,621.02
+P00027,Laptop Modello 7,Elettronica,Laptop,530.1
+P00028,Laptop Modello 8,Elettronica,Laptop,499.78
+P00029,Laptop Modello 9,Elettronica,Laptop,129.38
+P00030,Laptop Modello 10,Elettronica,Laptop,417.74
+P00031,Laptop Modello 11,Elettronica,Laptop,543.77
+P00032,Laptop Modello 12,Elettronica,Laptop,63.57
+P00033,Laptop Modello 13,Elettronica,Laptop,656.97
+P00034,Laptop Modello 14,Elettronica,Laptop,34.37
+P00035,Laptop Modello 15,Elettronica,Laptop,837.94
+P00036,Laptop Modello 16,Elettronica,Laptop,228.4
+P00037,Laptop Modello 17,Elettronica,Laptop,456.23
+P00038,Laptop Modello 18,Elettronica,Laptop,913.52
+P00039,Laptop Modello 19,Elettronica,Laptop,268.22
+P00040,Laptop Modello 20,Elettronica,Laptop,185.87
+P00041,Tablet Modello 1,Elettronica,Tablet,495.31
+P00042,Tablet Modello 2,Elettronica,Tablet,256.23
+P00043,Tablet Modello 3,Elettronica,Tablet,178.92
+P00044,Tablet Modello 4,Elettronica,Tablet,668.45
+P00045,Tablet Modello 5,Elettronica,Tablet,876.87
+P00046,Tablet Modello 6,Elettronica,Tablet,935.87
+P00047,Tablet Modello 7,Elettronica,Tablet,727.47
+P00048,Tablet Modello 8,Elettronica,Tablet,668.73
+P00049,Tablet Modello 9,Elettronica,Tablet,494.31
+P00050,Tablet Modello 10,Elettronica,Tablet,640.37
+P00051,Tablet Modello 11,Elettronica,Tablet,798.0
+P00052,Tablet Modello 12,Elettronica,Tablet,912.78
+P00053,Tablet Modello 13,Elettronica,Tablet,194.78
+P00054,Tablet Modello 14,Elettronica,Tablet,254.64
+P00055,Tablet Modello 15,Elettronica,Tablet,366.85
+P00056,Tablet Modello 16,Elettronica,Tablet,169.47
+P00057,Tablet Modello 17,Elettronica,Tablet,656.61
+P00058,Tablet Modello 18,Elettronica,Tablet,520.61
+P00059,Tablet Modello 19,Elettronica,Tablet,700.4
+P00060,Tablet Modello 20,Elettronica,Tablet,670.8
+P00061,Frigoriferi Modello 1,Elettrodomestici,Frigoriferi,514.48
+P00062,Frigoriferi Modello 2,Elettrodomestici,Frigoriferi,689.14
+P00063,Frigoriferi Modello 3,Elettrodomestici,Frigoriferi,431.76
+P00064,Frigoriferi Modello 4,Elettrodomestici,Frigoriferi,874.85
+P00065,Frigoriferi Modello 5,Elettrodomestici,Frigoriferi,328.73
+P00066,Frigoriferi Modello 6,Elettrodomestici,Frigoriferi,997.41
+P00067,Frigoriferi Modello 7,Elettrodomestici,Frigoriferi,471.86
+P00068,Frigoriferi Modello 8,Elettrodomestici,Frigoriferi,413.91
+P00069,Frigoriferi Modello 9,Elettrodomestici,Frigoriferi,849.08
+P00070,Frigoriferi Modello 10,Elettrodomestici,Frigoriferi,346.62
+P00071,Frigoriferi Modello 11,Elettrodomestici,Frigoriferi,812.64
+P00072,Frigoriferi Modello 12,Elettrodomestici,Frigoriferi,173.52
+P00073,Frigoriferi Modello 13,Elettrodomestici,Frigoriferi,968.21
+P00074,Frigoriferi Modello 14,Elettrodomestici,Frigoriferi,203.11
+P00075,Frigoriferi Modello 15,Elettrodomestici,Frigoriferi,978.04
+P00076,Frigoriferi Modello 16,Elettrodomestici,Frigoriferi,616.81
+P00077,Frigoriferi Modello 17,Elettrodomestici,Frigoriferi,612.93
+P00078,Frigoriferi Modello 18,Elettrodomestici,Frigoriferi,890.39
+P00079,Frigoriferi Modello 19,Elettrodomestici,Frigoriferi,202.11
+P00080,Frigoriferi Modello 20,Elettrodomestici,Frigoriferi,643.54
+P00081,Lavatrici Modello 1,Elettrodomestici,Lavatrici,227.87
+P00082,Lavatrici Modello 2,Elettrodomestici,Lavatrici,323.73
+P00083,Lavatrici Modello 3,Elettrodomestici,Lavatrici,665.31
+P00084,Lavatrici Modello 4,Elettrodomestici,Lavatrici,914.16
+P00085,Lavatrici Modello 5,Elettrodomestici,Lavatrici,242.81
+P00086,Lavatrici Modello 6,Elettrodomestici,Lavatrici,45.37
+P00087,Lavatrici Modello 7,Elettrodomestici,Lavatrici,708.04
+P00088,Lavatrici Modello 8,Elettrodomestici,Lavatrici,637.46
+P00089,Lavatrici Modello 9,Elettrodomestici,Lavatrici,28.18
+P00090,Lavatrici Modello 10,Elettrodomestici,Lavatrici,578.74
+P00091,Lavatrici Modello 11,Elettrodomestici,Lavatrici,334.92
+P00092,Lavatrici Modello 12,Elettrodomestici,Lavatrici,624.8
+P00093,Lavatrici Modello 13,Elettrodomestici,Lavatrici,363.4
+P00094,Lavatrici Modello 14,Elettrodomestici,Lavatrici,38.96
+P00095,Lavatrici Modello 15,Elettrodomestici,Lavatrici,86.94
+P00096,Lavatrici Modello 16,Elettrodomestici,Lavatrici,838.06
+P00097,Lavatrici Modello 17,Elettrodomestici,Lavatrici,321.14
+P00098,Lavatrici Modello 18,Elettrodomestici,Lavatrici,11.07
+P00099,Lavatrici Modello 19,Elettrodomestici,Lavatrici,369.01
+P00100,Lavatrici Modello 20,Elettrodomestici,Lavatrici,311.0
+P00101,Lavastoviglie Modello 1,Elettrodomestici,Lavastoviglie,851.25
+P00102,Lavastoviglie Modello 2,Elettrodomestici,Lavastoviglie,570.92
+P00103,Lavastoviglie Modello 3,Elettrodomestici,Lavastoviglie,731.98
+P00104,Lavastoviglie Modello 4,Elettrodomestici,Lavastoviglie,450.29
+P00105,Lavastoviglie Modello 5,Elettrodomestici,Lavastoviglie,532.52
+P00106,Lavastoviglie Modello 6,Elettrodomestici,Lavastoviglie,672.54
+P00107,Lavastoviglie Modello 7,Elettrodomestici,Lavastoviglie,366.18
+P00108,Lavastoviglie Modello 8,Elettrodomestici,Lavastoviglie,906.66
+P00109,Lavastoviglie Modello 9,Elettrodomestici,Lavastoviglie,64.48
+P00110,Lavastoviglie Modello 10,Elettrodomestici,Lavastoviglie,857.16
+P00111,Lavastoviglie Modello 11,Elettrodomestici,Lavastoviglie,331.87
+P00112,Lavastoviglie Modello 12,Elettrodomestici,Lavastoviglie,351.3
+P00113,Lavastoviglie Modello 13,Elettrodomestici,Lavastoviglie,528.51
+P00114,Lavastoviglie Modello 14,Elettrodomestici,Lavastoviglie,330.08
+P00115,Lavastoviglie Modello 15,Elettrodomestici,Lavastoviglie,960.63
+P00116,Lavastoviglie Modello 16,Elettrodomestici,Lavastoviglie,345.16
+P00117,Lavastoviglie Modello 17,Elettrodomestici,Lavastoviglie,182.68
+P00118,Lavastoviglie Modello 18,Elettrodomestici,Lavastoviglie,773.79
+P00119,Lavastoviglie Modello 19,Elettrodomestici,Lavastoviglie,734.34
+P00120,Lavastoviglie Modello 20,Elettrodomestici,Lavastoviglie,474.78
+P00121,Uomo Modello 1,Abbigliamento,Uomo,781.09
+P00122,Uomo Modello 2,Abbigliamento,Uomo,188.04
+P00123,Uomo Modello 3,Abbigliamento,Uomo,213.97
+P00124,Uomo Modello 4,Abbigliamento,Uomo,506.81
+P00125,Uomo Modello 5,Abbigliamento,Uomo,834.19
+P00126,Uomo Modello 6,Abbigliamento,Uomo,616.75
+P00127,Uomo Modello 7,Abbigliamento,Uomo,596.5
+P00128,Uomo Modello 8,Abbigliamento,Uomo,659.71
+P00129,Uomo Modello 9,Abbigliamento,Uomo,844.39
+P00130,Uomo Modello 10,Abbigliamento,Uomo,560.73
+P00131,Uomo Modello 11,Abbigliamento,Uomo,51.19
+P00132,Uomo Modello 12,Abbigliamento,Uomo,317.74
+P00133,Uomo Modello 13,Abbigliamento,Uomo,811.35
+P00134,Uomo Modello 14,Abbigliamento,Uomo,967.69
+P00135,Uomo Modello 15,Abbigliamento,Uomo,131.7
+P00136,Uomo Modello 16,Abbigliamento,Uomo,483.37
+P00137,Uomo Modello 17,Abbigliamento,Uomo,944.41
+P00138,Uomo Modello 18,Abbigliamento,Uomo,369.82
+P00139,Uomo Modello 19,Abbigliamento,Uomo,321.54
+P00140,Uomo Modello 20,Abbigliamento,Uomo,486.48
+P00141,Donna Modello 1,Abbigliamento,Donna,732.38
+P00142,Donna Modello 2,Abbigliamento,Donna,328.27
+P00143,Donna Modello 3,Abbigliamento,Donna,879.24
+P00144,Donna Modello 4,Abbigliamento,Donna,596.3
+P00145,Donna Modello 5,Abbigliamento,Donna,298.19
+P00146,Donna Modello 6,Abbigliamento,Donna,772.34
+P00147,Donna Modello 7,Abbigliamento,Donna,550.03
+P00148,Donna Modello 8,Abbigliamento,Donna,392.08
+P00149,Donna Modello 9,Abbigliamento,Donna,132.81
+P00150,Donna Modello 10,Abbigliamento,Donna,343.73
+P00151,Donna Modello 11,Abbigliamento,Donna,169.77
+P00152,Donna Modello 12,Abbigliamento,Donna,32.67
+P00153,Donna Modello 13,Abbigliamento,Donna,618.41
+P00154,Donna Modello 14,Abbigliamento,Donna,501.3
+P00155,Donna Modello 15,Abbigliamento,Donna,229.01
+P00156,Donna Modello 16,Abbigliamento,Donna,914.78
+P00157,Donna Modello 17,Abbigliamento,Donna,807.6
+P00158,Donna Modello 18,Abbigliamento,Donna,341.41
+P00159,Donna Modello 19,Abbigliamento,Donna,344.71
+P00160,Donna Modello 20,Abbigliamento,Donna,421.7
+P00161,Bambini Modello 1,Abbigliamento,Bambini,924.98
+P00162,Bambini Modello 2,Abbigliamento,Bambini,109.34
+P00163,Bambini Modello 3,Abbigliamento,Bambini,301.43
+P00164,Bambini Modello 4,Abbigliamento,Bambini,154.79
+P00165,Bambini Modello 5,Abbigliamento,Bambini,428.77
+P00166,Bambini Modello 6,Abbigliamento,Bambini,965.87
+P00167,Bambini Modello 7,Abbigliamento,Bambini,183.97
+P00168,Bambini Modello 8,Abbigliamento,Bambini,778.38
+P00169,Bambini Modello 9,Abbigliamento,Bambini,709.22
+P00170,Bambini Modello 10,Abbigliamento,Bambini,993.88
+P00171,Bambini Modello 11,Abbigliamento,Bambini,384.97
+P00172,Bambini Modello 12,Abbigliamento,Bambini,649.15
+P00173,Bambini Modello 13,Abbigliamento,Bambini,522.52
+P00174,Bambini Modello 14,Abbigliamento,Bambini,731.1
+P00175,Bambini Modello 15,Abbigliamento,Bambini,458.77
+P00176,Bambini Modello 16,Abbigliamento,Bambini,621.19
+P00177,Bambini Modello 17,Abbigliamento,Bambini,602.67
+P00178,Bambini Modello 18,Abbigliamento,Bambini,917.53
+P00179,Bambini Modello 19,Abbigliamento,Bambini,220.09
+P00180,Bambini Modello 20,Abbigliamento,Bambini,480.94
+P00181,Palloni Modello 1,Sport,Palloni,198.45
+P00182,Palloni Modello 2,Sport,Palloni,18.96
+P00183,Palloni Modello 3,Sport,Palloni,250.86
+P00184,Palloni Modello 4,Sport,Palloni,168.81
+P00185,Palloni Modello 5,Sport,Palloni,561.84
+P00186,Palloni Modello 6,Sport,Palloni,701.83
+P00187,Palloni Modello 7,Sport,Palloni,49.97
+P00188,Palloni Modello 8,Sport,Palloni,687.6
+P00189,Palloni Modello 9,Sport,Palloni,146.53
+P00190,Palloni Modello 10,Sport,Palloni,980.25
+P00191,Palloni Modello 11,Sport,Palloni,284.95
+P00192,Palloni Modello 12,Sport,Palloni,44.33
+P00193,Palloni Modello 13,Sport,Palloni,723.27
+P00194,Palloni Modello 14,Sport,Palloni,153.3
+P00195,Palloni Modello 15,Sport,Palloni,292.17
+P00196,Palloni Modello 16,Sport,Palloni,443.12
+P00197,Palloni Modello 17,Sport,Palloni,833.68
+P00198,Palloni Modello 18,Sport,Palloni,187.83
+P00199,Palloni Modello 19,Sport,Palloni,195.65
+P00200,Palloni Modello 20,Sport,Palloni,835.6
+P00201,Abbigliamento Sportivo Modello 1,Sport,Abbigliamento Sportivo,892.96
+P00202,Abbigliamento Sportivo Modello 2,Sport,Abbigliamento Sportivo,346.41
+P00203,Abbigliamento Sportivo Modello 3,Sport,Abbigliamento Sportivo,665.0
+P00204,Abbigliamento Sportivo Modello 4,Sport,Abbigliamento Sportivo,363.13
+P00205,Abbigliamento Sportivo Modello 5,Sport,Abbigliamento Sportivo,655.15
+P00206,Abbigliamento Sportivo Modello 6,Sport,Abbigliamento Sportivo,121.94
+P00207,Abbigliamento Sportivo Modello 7,Sport,Abbigliamento Sportivo,688.48
+P00208,Abbigliamento Sportivo Modello 8,Sport,Abbigliamento Sportivo,356.19
+P00209,Abbigliamento Sportivo Modello 9,Sport,Abbigliamento Sportivo,181.61
+P00210,Abbigliamento Sportivo Modello 10,Sport,Abbigliamento Sportivo,251.91
+P00211,Abbigliamento Sportivo Modello 11,Sport,Abbigliamento Sportivo,750.83
+P00212,Abbigliamento Sportivo Modello 12,Sport,Abbigliamento Sportivo,673.82
+P00213,Abbigliamento Sportivo Modello 13,Sport,Abbigliamento Sportivo,97.42
+P00214,Abbigliamento Sportivo Modello 14,Sport,Abbigliamento Sportivo,358.89
+P00215,Abbigliamento Sportivo Modello 15,Sport,Abbigliamento Sportivo,293.44
+P00216,Abbigliamento Sportivo Modello 16,Sport,Abbigliamento Sportivo,444.82
+P00217,Abbigliamento Sportivo Modello 17,Sport,Abbigliamento Sportivo,799.76
+P00218,Abbigliamento Sportivo Modello 18,Sport,Abbigliamento Sportivo,633.66
+P00219,Abbigliamento Sportivo Modello 19,Sport,Abbigliamento Sportivo,202.95
+P00220,Abbigliamento Sportivo Modello 20,Sport,Abbigliamento Sportivo,937.67
+P00221,Attrezzature Modello 1,Sport,Attrezzature,673.36
+P00222,Attrezzature Modello 2,Sport,Attrezzature,123.25
+P00223,Attrezzature Modello 3,Sport,Attrezzature,991.69
+P00224,Attrezzature Modello 4,Sport,Attrezzature,781.41
+P00225,Attrezzature Modello 5,Sport,Attrezzature,525.37
+P00226,Attrezzature Modello 6,Sport,Attrezzature,902.89
+P00227,Attrezzature Modello 7,Sport,Attrezzature,334.94
+P00228,Attrezzature Modello 8,Sport,Attrezzature,182.74
+P00229,Attrezzature Modello 9,Sport,Attrezzature,588.46
+P00230,Attrezzature Modello 10,Sport,Attrezzature,177.74
+P00231,Attrezzature Modello 11,Sport,Attrezzature,527.83
+P00232,Attrezzature Modello 12,Sport,Attrezzature,504.67
+P00233,Attrezzature Modello 13,Sport,Attrezzature,928.81
+P00234,Attrezzature Modello 14,Sport,Attrezzature,345.33
+P00235,Attrezzature Modello 15,Sport,Attrezzature,600.78
+P00236,Attrezzature Modello 16,Sport,Attrezzature,450.53
+P00237,Attrezzature Modello 17,Sport,Attrezzature,484.58
+P00238,Attrezzature Modello 18,Sport,Attrezzature,466.15
+P00239,Attrezzature Modello 19,Sport,Attrezzature,328.94
+P00240,Attrezzature Modello 20,Sport,Attrezzature,753.81
+P00241,Cucina Modello 1,Arredamento,Cucina,528.6
+P00242,Cucina Modello 2,Arredamento,Cucina,584.15
+P00243,Cucina Modello 3,Arredamento,Cucina,17.89
+P00244,Cucina Modello 4,Arredamento,Cucina,723.16
+P00245,Cucina Modello 5,Arredamento,Cucina,394.23
+P00246,Cucina Modello 6,Arredamento,Cucina,207.35
+P00247,Cucina Modello 7,Arredamento,Cucina,749.21
+P00248,Cucina Modello 8,Arredamento,Cucina,679.35
+P00249,Cucina Modello 9,Arredamento,Cucina,378.02
+P00250,Cucina Modello 10,Arredamento,Cucina,853.34
+P00251,Cucina Modello 11,Arredamento,Cucina,101.11
+P00252,Cucina Modello 12,Arredamento,Cucina,87.98
+P00253,Cucina Modello 13,Arredamento,Cucina,344.38
+P00254,Cucina Modello 14,Arredamento,Cucina,349.19
+P00255,Cucina Modello 15,Arredamento,Cucina,93.28
+P00256,Cucina Modello 16,Arredamento,Cucina,477.55
+P00257,Cucina Modello 17,Arredamento,Cucina,662.97
+P00258,Cucina Modello 18,Arredamento,Cucina,100.62
+P00259,Cucina Modello 19,Arredamento,Cucina,679.96
+P00260,Cucina Modello 20,Arredamento,Cucina,522.65
+P00261,Soggiorno Modello 1,Arredamento,Soggiorno,812.95
+P00262,Soggiorno Modello 2,Arredamento,Soggiorno,480.14
+P00263,Soggiorno Modello 3,Arredamento,Soggiorno,804.73
+P00264,Soggiorno Modello 4,Arredamento,Soggiorno,141.71
+P00265,Soggiorno Modello 5,Arredamento,Soggiorno,507.29
+P00266,Soggiorno Modello 6,Arredamento,Soggiorno,767.35
+P00267,Soggiorno Modello 7,Arredamento,Soggiorno,276.84
+P00268,Soggiorno Modello 8,Arredamento,Soggiorno,789.84
+P00269,Soggiorno Modello 9,Arredamento,Soggiorno,713.2
+P00270,Soggiorno Modello 10,Arredamento,Soggiorno,381.51
+P00271,Soggiorno Modello 11,Arredamento,Soggiorno,255.76
+P00272,Soggiorno Modello 12,Arredamento,Soggiorno,354.4
+P00273,Soggiorno Modello 13,Arredamento,Soggiorno,472.98
+P00274,Soggiorno Modello 14,Arredamento,Soggiorno,482.21
+P00275,Soggiorno Modello 15,Arredamento,Soggiorno,559.04
+P00276,Soggiorno Modello 16,Arredamento,Soggiorno,468.67
+P00277,Soggiorno Modello 17,Arredamento,Soggiorno,497.36
+P00278,Soggiorno Modello 18,Arredamento,Soggiorno,353.77
+P00279,Soggiorno Modello 19,Arredamento,Soggiorno,214.69
+P00280,Soggiorno Modello 20,Arredamento,Soggiorno,476.55
+P00281,Camera da Letto Modello 1,Arredamento,Camera da Letto,548.26
+P00282,Camera da Letto Modello 2,Arredamento,Camera da Letto,623.78
+P00283,Camera da Letto Modello 3,Arredamento,Camera da Letto,753.52
+P00284,Camera da Letto Modello 4,Arredamento,Camera da Letto,55.48
+P00285,Camera da Letto Modello 5,Arredamento,Camera da Letto,259.72
+P00286,Camera da Letto Modello 6,Arredamento,Camera da Letto,845.06
+P00287,Camera da Letto Modello 7,Arredamento,Camera da Letto,613.46
+P00288,Camera da Letto Modello 8,Arredamento,Camera da Letto,443.72
+P00289,Camera da Letto Modello 9,Arredamento,Camera da Letto,568.68
+P00290,Camera da Letto Modello 10,Arredamento,Camera da Letto,780.79
+P00291,Camera da Letto Modello 11,Arredamento,Camera da Letto,88.59
+P00292,Camera da Letto Modello 12,Arredamento,Camera da Letto,672.73
+P00293,Camera da Letto Modello 13,Arredamento,Camera da Letto,832.93
+P00294,Camera da Letto Modello 14,Arredamento,Camera da Letto,317.07
+P00295,Camera da Letto Modello 15,Arredamento,Camera da Letto,333.17
+P00296,Camera da Letto Modello 16,Arredamento,Camera da Letto,969.27
+P00297,Camera da Letto Modello 17,Arredamento,Camera da Letto,744.19
+P00298,Camera da Letto Modello 18,Arredamento,Camera da Letto,414.77
+P00299,Camera da Letto Modello 19,Arredamento,Camera da Letto,345.45
+P00300,Camera da Letto Modello 20,Arredamento,Camera da Letto,846.68
